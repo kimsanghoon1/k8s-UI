@@ -3,7 +3,7 @@
 ## node.js install
 https://nodejs.org/ko/download/
 
-필요에 따라서 node.js 설치.
+필요에 따라서 node.js 설치
 
 =======
 ### Project setup
